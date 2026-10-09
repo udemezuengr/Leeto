@@ -19,7 +19,7 @@ const tableOfContents = [
   { id: 'types-of-cookies', title: '3. Types of Cookies We Use' },
   { id: 'third-party', title: '4. Third-Party Cookies' },
   { id: 'manage-preferences', title: '5. Managing Your Preferences' },
-  { id: 'updates', title: '6. Policy Updates & Contact' }
+  { id: 'updates', title: '6. Policy Updates & Contact.' }
 ]
 </script>
 
